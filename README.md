@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <h1 align="center">Merhaba 👋, ben Nermin</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">isvicrede bir ön uç geliştiricisi</h3>
 
 - 📫 Bana nasıl ulaşabilirsiniz **bakirnermin21@gmail.com**
 
