@@ -1,4 +1,13 @@
+👋 Hi i am @Rukencu
+🌱 I'm currently studying software engineering and I'm still improving myself.
 
+🔮 I develop projects with React, Javascript & React Native.
+
+💬 Ask me about React JS,React Native,Javascript
+
+🤭 I love learning new things and software
+
+📫 How can you reach me bakirnermin21@gmail.com
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@bakir nermin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bakirnermin21@gmail.com) 
 
